@@ -1,0 +1,464 @@
+@font-face {
+    font-family: futurak;
+    src: url(../fonts/futurak.ttf);
+}
+
+
+/* navbar started */
+
+.logo-img{
+    width: 165px;
+}
+
+navbar{
+    padding: 15px;
+    margin: 20px;
+}
+
+nav-item{
+    font-size: 2rem;
+}
+
+.franchise-btn{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 15px 25px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+}
+.order-btn{
+    background-color: #ed1c24;
+    border: none;
+    padding: 20px 25px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+}
+
+circle-btn{
+    background-color: #ffffff;
+    padding: 10px 10px;
+    border-radius: 30px;
+    color: #ed1c24;
+    margin-left: 5px;
+}
+.arrow-icon{
+    font-size: 1.5rem;
+}
+
+a{
+    font-size: 1.6rem;
+}
+/* navbar ended */
+.carousel-img{
+width: 100%;
+}
+
+/* restarauntsection started */
+.img-restaurant{
+    background-color: #ffffff;
+    padding: 30px 35px;
+    border-radius: 3px;
+}
+
+.restaurant-btn{
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    padding: 15px 45px;
+    border-radius: 25px;
+    font-size: 1.3rem;
+    color: #ffffff;
+    width: 200px;
+}
+/* restarauntsection ended */
+
+.font-futuruk{
+    font-family: futurak;
+    font-size: 5rem;
+}
+
+
+ /*  franchises section started  */
+
+.grey-bg{
+    background-color: #0f0f0f;
+    
+}
+
+/* .franchise-font{
+    font-size: 3.2rem;
+    font-family: futurak;
+}
+.space-bt{
+    letter-spacing: 5px;
+} */
+
+
+.main3 {
+    height: 162rem;
+    width: 100%;
+    background-color: #0f0f0ff7;
+}
+
+.heading-top {
+    color: #ffffff;
+    font-family: futurak;
+    letter-spacing: 2px;
+    font-size: 6rem;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.span3 {
+    font-family: apercu-light;
+    font-size: 6rem;
+}
+
+.sub-para {
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.card1 {
+    width: 89%;
+    margin-top: 60px;
+    display: flex;
+    margin-left: 90px;
+}
+
+.card1-text {
+    height: 370px;
+    width: 50%;
+}
+
+.card1-text-p {
+    color: #ff0000;
+    letter-spacing: 5px;
+    font-size: 1.7rem;
+}
+.span3{
+    font-family: apercu-light;
+    font-size: 2.9rem;
+}
+.span4 {
+    color: #ffffff;
+    font-family: futurak;
+    font-size: 1.7rem;
+}
+
+.span5 {
+    font-family: apercu-light;
+    font-size: 1.7rem;
+}
+
+.location {
+    color: #ffffff;
+    padding-top: 50px;
+}
+
+.span6 {
+    font-family: apercu-light;
+    padding-left: 10px;
+    font-size: 1.7rem;
+}
+
+.phone {
+    color: #ffffff;
+}
+
+.phone1 {
+    color: rgb(255, 255, 255, 0.85);
+    padding-top: 10px;
+
+
+}
+
+.butn1 {
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 50px;
+    font-family: apercu-light;
+    border-radius: 30px;
+    padding-right: 10px;
+    width: 200px;
+}
+
+.arrow {
+    border: 2px solid #ffffff;
+    background-color: white;
+    color: #ff0000;
+    border-radius: 50%;
+    padding: 5px;
+
+}
+
+.card1-img {
+    height: 370px;
+    width: 43%;
+    background-color: #5e5e78;
+}
+
+.main3-1 {
+    height: 370px;
+    width: 100%;
+}
+
+.m-card2 {
+    width: 100%;
+    height: 340px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.card2-img {
+    height: 320px;
+    width: 50%;
+    margin-top: 20px;
+
+}
+
+.main3-2 {
+    height: 370px;
+    width: 90%;
+    margin-left: 70px;
+}
+
+.card2-text {
+    height: 370px;
+    width: 50%;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.m-card3 {
+    margin-top: 90px;
+}
+
+
+ /* franchises section ended  */ 
+
+
+ .main4 {
+    height: 255rem;
+    width: 100%;
+    background-color: black;
+}
+
+.main4-card1 {
+    width: 100%;
+    height: 490px;
+    /* background-color: gray; */
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.c1-box1 {
+    width: 25%;
+    height: 490px;
+    /* background-color: aquamarine; */
+}
+
+.main4-c1-img1 {
+    width: 100%;
+    height: 250px;
+}
+
+.ppp {
+    color: red;
+    font-family: fonts;
+    font-size: 15px;
+    letter-spacing: 10px;
+}
+
+.pppp {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.span8 {
+    font-family: fonts;
+}
+
+.span9 {
+    font-family: fonts;
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+
+.span10 {
+    font-family: fonts;
+    font-size: 15px;
+}
+
+.lc1 {
+    font-size: 15px;
+    margin-top: 2px;
+    padding-top: 3px;
+
+}
+
+.phonei {
+    font-size: 15px;
+}
+
+.span11 {
+    font-family: fonts;
+    font-size: 15px;
+}
+
+
+.c1-box2 {
+    width: 25%;
+    height: 490px;
+    /* background-color: rgb(15, 70, 51); */
+}
+
+.main4-c1-img2 {
+    width: 100%;
+    height: 250px;
+}
+
+.c1-box3 {
+    width: 25%;
+    height: 490px;
+    /* background-color: rgb(38, 15, 55); */
+}
+
+.main4-c1-img3 {
+    width: 100%;
+    height: 250px;
+}
+
+.main4-card2 {
+    padding-top: 100px;
+
+}
+
+.main4-card3 {
+    margin-top: 100px;
+}
+
+.main4-card4 {
+    height: 470px;
+    width: 100%;
+    /* background-color: aqua; */
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ .footer{
+    width: 100%;
+    height: 600px;
+    background-color:#0f0f0f; 
+}
+.th{
+    /* width: 100%;
+    height: 300px; */
+    display: flex;
+}
+.table-1{
+    height: 300px;
+    width: 350px;
+    margin-left: 100px;
+}
+.footer-logo{
+    height: 90px;
+    width: 170px;
+    
+}
+.footer-p{
+    font-family: apercu-light;
+    color: #d3d3d3;
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+.footer-p2{
+    font-family: apercu-light;
+    color: #d3d3d3;
+    margin-top: 20px;
+}
+.table-2{
+    height: 300px;
+    width: 280px;
+    margin-left: 20px;
+    color: #d3d3d3;
+    font-size: 1.8rem;
+    margin-top: 15px;
+    padding-left: 30px;
+  
+}
+b{
+    color: white;
+}
+.T3{
+    height: 300px;
+    width: 280px;
+    margin-left: 1px;
+}
+strong{
+    font-family: fonts;
+    font-weight: 50px;
+    color: white;
+    
+    
+}
+.gray{
+    color: #d3d3d3;
+}
+.strong1{
+    padding-top: 14px;
+}
+.t3-p1{
+    font-family: fonts;
+    padding-top: 15px;
+}
+
+
+.t3-p{
+    padding-top: 15px;
+}
+
+
+.T4{
+    height: 300px;
+    width: 280px;
+    /* background-color: rgb(206, 224, 12); */
+    margin-left: 10px;
+}
+.t4-i{
+    margin-top: 32px;
+    /* padding-left: 30px; */
+    background-color: #ed1c24;
+    border: 2px solid #ed1c24;
+    /* border-radius: 50%; */
+    /* padding: 10px 20px; */
+}
+.ff{
+    padding: 10px;
+    border-radius: 50%;
+    padding: 10px 14px;
+
+}
+.ins{
+    /* text-align: center; */
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.pt4{
+    margin-left: 4px;
+}
+.playstore{
+    margin-top: 20px;
+}
+.apple{
+    margin-top: 10px;
+}
+hr{
+    color: #d3d3d3;
+    margin-top: 170px;
+}
